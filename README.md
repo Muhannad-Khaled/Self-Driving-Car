@@ -1,7 +1,3 @@
-Sure, I'll review the contents of the uploaded notebook and create a README file based on it. Let's start by examining the contents of the notebook.
-
-The uploaded Jupyter notebook is in version 4.0 format and contains 27 cells. I will now extract key information from these cells to generate a comprehensive README file.
-
 Based on the contents of the Jupyter notebook, here's a draft of a README file for the project:
 
 ---
