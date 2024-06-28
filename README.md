@@ -1,6 +1,7 @@
 # Self-Driving Car Project
 
-This project implements a self-driving car model using deep learning techniques. The following sections provide an overview of the setup, data processing, model training, and evaluation steps involved in this project.
+This project implements a self-driving car model using deep learning techniques.
+The following sections provide an overview of the setup, data processing, model training, and evaluation steps involved in this project.
 
 ## Table of Contents
 1. [Introduction](#introduction)
