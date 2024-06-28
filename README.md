@@ -12,7 +12,6 @@ The following sections provide an overview of the setup, data processing, model 
 6. [Evaluation](#evaluation)
 7. [Usage](#usage)
 8. [Conclusion](#conclusion)
-   
 
 ## Introduction
 The goal of this project is to create a self-driving car model that can predict steering angles based on input images. The project leverages convolutional neural networks (CNNs) to achieve this.
