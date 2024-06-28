@@ -1,4 +1,3 @@
-# Self-Driving-Car
 Sure, I'll review the contents of the uploaded notebook and create a README file based on it. Let's start by examining the contents of the notebook.
 
 The uploaded Jupyter notebook is in version 4.0 format and contains 27 cells. I will now extract key information from these cells to generate a comprehensive README file.
@@ -12,9 +11,9 @@ Based on the contents of the Jupyter notebook, here's a draft of a README file f
 This project implements a self-driving car model using deep learning techniques. The following sections provide an overview of the setup, data processing, model training, and evaluation steps involved in this project.
 
 ## Table of Contents
-1. Introduction
-2. Setup]
-3. [Data Preprocessing]
+1. [Introduction](#introduction)
+2. [Setup](#setup)
+3. [Data Preprocessing](#data-preprocessing)
 4. [Model Architecture](#model-architecture)
 5. [Training](#training)
 6. [Evaluation](#evaluation)
@@ -94,7 +93,7 @@ history = model.fit_generator(batch_generator(X_train, y_train, 100, 1),
 ## Evaluation
 Model evaluation is performed to assess the performance on the validation dataset:
 
-
+```python
 plt.plot(history.history['loss'])
 plt.plot(history.history['val_loss'])
 plt.legend(['training', 'validation'])
