@@ -112,5 +112,3 @@ files.download('model.h5')
 This project demonstrates the application of deep learning techniques for self-driving car development. The implemented model can predict steering angles based on input images, showcasing the potential of autonomous driving technologies.
 
 ---
-
-Feel free to adjust the content as needed for your specific use case or to add more detailed explanations where necessary.
