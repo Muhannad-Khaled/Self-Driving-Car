@@ -1,7 +1,3 @@
-Based on the contents of the Jupyter notebook, here's a draft of a README file for the project:
-
----
-
 # Self-Driving Car Project
 
 This project implements a self-driving car model using deep learning techniques. The following sections provide an overview of the setup, data processing, model training, and evaluation steps involved in this project.
