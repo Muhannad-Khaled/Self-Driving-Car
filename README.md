@@ -65,7 +65,6 @@ The model architecture is based on Nvidia's end-to-end deep learning model for s
 def nvidia_model():
     model = Sequential()
     model.add(Conv2D(24, (5, 5), strides=(2, 2), input_shape=(66, 200, 3), activation='elu'))
-    ...
     return model
 ```
 
